@@ -1,5 +1,8 @@
 # Proyecto Final, Segundo Bimestre - MATLAB BÁSICO
 
+- **Vencimiento: Jueves, 28 de julio**
+- **Calificación: .../10 (Auto califique su trabajo)**
+
 ## Objetivos de aprendizaje
 - Aplicar nuevas habilidades a un problema del mundo real
 - Sintetizar las técnicas aprendidas
