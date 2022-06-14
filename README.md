@@ -56,6 +56,7 @@
   - Visualización de gráficas en formato PDF
   - Pruebas del programa
   - Documentación del proyecto: actualizar el contenido de README.md empleando el archivo plantilla_README.md.
+  - Autocalificar y generar PDF del archivo main.mlx
 
 
 
