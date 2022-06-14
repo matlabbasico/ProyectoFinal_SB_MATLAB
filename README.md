@@ -39,10 +39,10 @@
 
 ## Entregables
 - **Semana 2 (16 jun.):** 
-  - Definición de problema
+  - Definición de problema en archivo propuesta.txt
  
 - **Semana 3 (23 jun.):** 
-  - Lista de funcionalidades del problema a automatizar.
+  - Lista de funcionalidades del problema a automatizar (en el archivo de propusta.txt).
   - Selección e importación de datos del archivo(s) fuente (csv, xlsx, mat, etc.), uso de la herramienta **import**.
   - Pre procesamiento de los datos (limpieza de datos)
   - Obtención de información (datos estadísticos u operaciones útiles para la solución del problema)
@@ -73,7 +73,7 @@ La especificación del problema describe una lista de requisitos sobre la funcio
 
 Para obtener el máximo crédito por el proyecto final, deberá:
 
-1. Entregar una propuesta de proyecto antes del jueves 16 de junio. La descripción de la propuesta solo necesita ser de un párrafo. Debe describir en palabras lo que hará su proyecto final. Revisaré su propuesta lo antes posible y se le informara si es aceptable. Coloque la descripción de su propuesta en un archivo de texto llamado proposal.txt(o proposal.md si lo prefiere, markdown) y súbalo a través de github.
+1. Entregar una propuesta de proyecto antes del jueves 16 de junio. La descripción de la propuesta solo necesita ser de un párrafo. Debe describir en palabras lo que hará su proyecto final. Revisaré su propuesta lo antes posible y se le informara si es aceptable. Coloque la descripción de su propuesta en un archivo de texto llamado propuesta.txt(o propuesta.md si lo prefiere, markdown) y súbalo a través de github.
 
 2. En su proyecto deberá utilizar programación modular (uso de funciones), operaciones con matrices, lectura de archivos externos (CSV, xlsx, mat, dat, etc.), gráficos avanzados en formato PDF, y si es necesario matemática simbólica.
 
